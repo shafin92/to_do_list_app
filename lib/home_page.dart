@@ -36,8 +36,8 @@ setState(() {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: const Text(
-          "                        Simple To-Do list App",
-          textAlign: TextAlign.right,
+          "To-Do list App",
+          textAlign: TextAlign.center,
         ),
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
